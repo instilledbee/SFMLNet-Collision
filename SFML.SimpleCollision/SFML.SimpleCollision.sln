@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFML.SimpleCollision", "SFML.SimpleCollision\SFML.SimpleCollision.csproj", "{BBF9DB7A-A6B4-4AC3-BB7E-6000F1EC1F88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBF9DB7A-A6B4-4AC3-BB7E-6000F1EC1F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF9DB7A-A6B4-4AC3-BB7E-6000F1EC1F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF9DB7A-A6B4-4AC3-BB7E-6000F1EC1F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF9DB7A-A6B4-4AC3-BB7E-6000F1EC1F88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09E101C3-6F1C-4838-820B-1D3796F3063D}
+	EndGlobalSection
+EndGlobal
