@@ -1,7 +1,7 @@
 ﻿using SFML.Graphics;
 using SFML.System;
 
-namespace Collision
+namespace InstilledBee.SFML.SimpleCollision
 {
     /// <summary>
     /// Provides methods for testing collisions between Sprites

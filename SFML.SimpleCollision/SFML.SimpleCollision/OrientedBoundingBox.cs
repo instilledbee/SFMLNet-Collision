@@ -1,7 +1,7 @@
 ﻿using SFML.Graphics;
 using SFML.System;
 
-namespace Collision
+namespace InstilledBee.SFML.SimpleCollision
 {
     /// <summary>
     /// A bounding box that can be projected onto an axis

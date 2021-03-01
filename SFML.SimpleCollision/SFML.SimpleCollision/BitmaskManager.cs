@@ -1,7 +1,7 @@
 ﻿using SFML.Graphics;
 using System.Collections.Generic;
 
-namespace Collision
+namespace InstilledBee.SFML.SimpleCollision
 {
     /// <summary>
     /// Stores bitmask data for use with pixel perfect testing
